@@ -24,8 +24,27 @@
 // Print out every character from the string:
 // 'Frontend Simplified"
 
-const str = "Frontend Simplified"
+// const str = "Frontend Simplified"
 
-for (let i = 0; i < str.length; ++i) {
-    console.log(str[i])
-}
+// for (let i = 0; i < str.length; ++i) {
+//     console.log(str[i])
+// }
+
+// function getVowelCount(sentence) {
+//     const vowels = `aeiouAEIOU`;
+//     let count = 0;
+
+
+//     for (let char of sentence) {
+//         if (vowels.includes(char)) {
+//             count++;
+//         }
+//     }
+
+//     return count;
+
+// }
+
+// let vowelCount = getVowelCount(`Apples are tasty fruits`);
+// console.log(`Vowel Count: ${vowelCount}`);
+
